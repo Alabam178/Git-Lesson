@@ -23,3 +23,7 @@ js/main.js
 
 // git add .
 // git commit -m "First commit"
+
+// git checkout HEAD index.html
+// git reset HEAD index.html
+
