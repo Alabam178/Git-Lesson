@@ -11,14 +11,14 @@
 
 # Staged area - Изменение подготовленные к коммиту
 '''
-
+index.html
+css/main.css
+js/main.js
 '''
 
 # Unmodified files - Сохранение и неизмененнык файлы
 '''
-index.html
-css/main.css
-js/main.js
+
 '''
 
 …or create a new repository on the command line
@@ -26,7 +26,7 @@ js/main.js
 echo "# project" >> README.md
 
 git init
-git add README.md
+
 git commit -m "first commit"
 git remote add origin https://github.com/Alabam178/Git-Lesson.git
 git push -u origin master
