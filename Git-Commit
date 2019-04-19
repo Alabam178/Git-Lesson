@@ -1,0 +1,25 @@
+# Untracked - Неотслеживаемые файлы
+'''
+
+
+'''
+
+# Modifield - Изменение в файлах, которые ранее были сохранены
+'''
+
+'''
+
+# Staged area - Изменение подготовленные к коммиту
+'''
+
+'''
+
+# Unmodified files - Сохранение и неизмененнык файлы
+'''
+index.html
+css/main.css
+js/main.js
+'''
+
+// git add .
+// git commit -m "First commit"
